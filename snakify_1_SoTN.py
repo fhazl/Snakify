@@ -1,0 +1,5 @@
+num_1 = (input("First number : "))
+num_2 = (input("Second number: "))
+num_3 = (input("Third number : "))
+print("                      +______")
+print(num_1 + num_2 + num_3)
